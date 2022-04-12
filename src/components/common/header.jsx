@@ -1,8 +1,12 @@
+import { HeaderComponent } from '../../styles/header';
+
 function Header() {
   return (
-    <header>
-      <h1>MobX Market</h1>
-    </header>
+    <>
+      <HeaderComponent>
+        <h1>MobX Market</h1>
+      </HeaderComponent>
+    </>
   );
 }
 
