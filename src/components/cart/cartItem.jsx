@@ -1,4 +1,4 @@
-function CartItem() {
+function CartItem({ item }) {
   return <div>this is CartItem</div>;
 }
 
