@@ -7,8 +7,7 @@ export const FooterComponent = styled.footer`
   place-content: center;
   align-items: center;
   a {
-    text-decoration: none;
-    color: #fff;
+    color: #000;
   }
   a:before {
     content: ' ';

@@ -16,10 +16,9 @@ export const NavComponent = styled.nav`
     transition: all 0.3s;
     > a {
       text-decoration: none;
-      color: #fff;
     }
     &.active {
-      border-bottom: 2px solid #fff;
+      border-bottom: 2px solid #000;
       border-radius: 2px;
     }
   }

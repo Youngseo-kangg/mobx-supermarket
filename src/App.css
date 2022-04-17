@@ -8,13 +8,11 @@ body,
   height: 100%;
   display: grid;
   place-items: center;
-  background-color: #000;
-  color: #fff;
 }
 #appWrapper {
   width: 100%;
   height: 100%;
   display: grid;
-  grid-template-rows: 100px 50px 1fr 100px;
+  grid-template-rows: 150px 50px 1fr 150px;
   max-width: 1080px;
 }
